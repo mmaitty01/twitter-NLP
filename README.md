@@ -1,6 +1,7 @@
 #  NLP for Text Classification ( tweet is about a real disaster)
 This repository focuses on using Natural Language Processing (NLP) to classify whether tweets are related to real-life disasters or not using Python.
-<p align="center"><img width="600" src = "https://github.com/user-attachments/assets/f23d45ee-f3aa-4cab-a26f-30c652011745"></p>
+<p align="center"><img width="600" src = "https://github.com/user-attachments/assets/e34a4654-e66c-43b9-9558-ede8b4302f05"></p>
+
 
 ## Overview
 Text classification เป็นหนึ่งในงานที่สำคัญใน Supervised machine learning (ML) เป็นกระบวนการในการกำหนดแท็ก/หมวดหมู่ให้กับเอกสาร ซึ่งช่วยให้เราสามารถจัดโครงสร้างและวิเคราะห์ข้อความโดยอัตโนมัติ ในบทความนี้จะใช้ dataset “Natural Language Processing with Disaster
